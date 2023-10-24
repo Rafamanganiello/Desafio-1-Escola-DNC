@@ -44,3 +44,6 @@ no css, ajustei as dimensões do botão, a fonte e as cores de acordo com o mode
 Já o button-hover serve para adicionar uma animação ao botão assim que o cursor do mouse for colocado em cima dele. o comando "transform:translateY(-7px) ;" fará o botão se mover 7 pixels acima; o "box-shadow: 0px 15px 20px #1a2225;" é referente ao tamanho e a cor da sombra que a animação fará. E por ultimo o "transition-duration: 0.5s;" é o tempo em que a animação durará.
 
 fim ;) 
+
+link do site: https://landing-page-arq.netlify.app
+link da planilha de informações: https://docs.google.com/spreadsheets/d/e/2PACX-1vTOFowCV2-WcjHiADX64BevILflMmxg6tT_AusNPzmxQ922-jkC5RnELE0gRyQvb9i6FfAfGXadPIM8/pubhtml
